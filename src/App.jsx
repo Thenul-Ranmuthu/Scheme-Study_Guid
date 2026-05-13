@@ -744,7 +744,7 @@ export default function SchemeStudyGuide() {
       {/* Footer */}
       <div style={{ borderTop: `1px solid ${c.accent}22`, padding: "14px 24px", textAlign: "center" }}>
         <span style={{ color: "#475569", fontSize: 12, fontFamily: "monospace" }}>
-          Scheme Study Guide · Programming Paradigms SE2052 · Built with 💜 for SLIIT
+          Scheme Study Guide · Programming Paradigms SE2052 · Built with 💜 form TB...
         </span>
       </div>
     </div>
